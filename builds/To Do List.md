@@ -1,6 +1,9 @@
 # Chirpy Reverie Advance
 
 ~~Updated Credits~~
+
 Widescreen
-60fps 
+
+60fps
+
 Disable Fancy Graphics by Defualt
